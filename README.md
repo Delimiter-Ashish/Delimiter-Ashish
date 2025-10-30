@@ -99,9 +99,16 @@
 
 ---
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishjoshi&theme=matrix&no-frame=true&margin-w=10&row=1" />
-</p> -->
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxkc3F1MG5raTR1OWt2cW5tM2FwYzUzOTI5dHltanAxYXRubm1nMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" 
+       width="850" 
+       alt="AI Brain Animation" 
+       style="border-radius:12px; box-shadow:0 0 15px rgba(0,255,255,0.4);"/>
+</p>
+
+
+
+
 
 ---
 
